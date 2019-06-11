@@ -1,0 +1,2 @@
+~$ git clone https://github.com/Fransiskusandika/shellphish.git
+~$ chmod -R 777 shellphish/ && cd shellphish && ./shellphish.sh
